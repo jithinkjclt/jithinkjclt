@@ -4,7 +4,7 @@ I'm **Jithin K**, a passionate **Flutter Developer** from Calicut, India 🇮�
 Crafting beautiful, scalable apps using **Flutter + Firebase**, with a focus on performance and clean architecture.  
 Always learning, building, and exploring better ways to solve real-world problems through code.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="320" />
+<img align="right" alt="Flutter Dev Animation" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" height="300" />
 
 ---
 
@@ -55,10 +55,11 @@ Always learning, building, and exploring better ways to solve real-world problem
 
 ### 📫 Connect with Me
 
-[<img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/jithincalicut)  
-[<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/jithinkjclt)  
-[<img align="left" alt="GitLab" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />](https://gitlab.com/jithinkjclt)  
-[<img align="left" alt="Portfolio" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/internetexplorer.svg" />](https://jithin.dev)
+<a href="mailto:jithinkjclt@gmail.com"><img align="left" alt="Email" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" /></a>
+<a href="https://linkedin.com/in/jithincalicut"><img align="left" alt="LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
+<a href="https://github.com/jithinkjclt"><img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" /></a>
+<a href="https://gitlab.com/jithinkjclt"><img align="left" alt="GitLab" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" /></a>
+<a href="https://jithin.dev"><img align="left" alt="Website" width="26px" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" /></a>
 
 <br/><br/>
 
