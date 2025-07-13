@@ -52,13 +52,26 @@ Always learning, building, and exploring better ways to solve real-world problem
 </a>
 
 ---
-
 ### 📫 Connect with Me
 
-<a href="mailto:jithinkjclt@gmail.com"><img align="left" alt="Email" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" /></a>
-<a href="https://linkedin.com/in/jithincalicut"><img align="left" alt="LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
-<a href="https://github.com/jithinkjclt"><img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" /></a>
-<a href="https://gitlab.com/jithinkjclt"><img align="left" alt="GitLab" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" /></a>
+<p align="left">
+  <a href="mailto:jithinkjclt@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="26px" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/jithincalicut" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="26px" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/jithinkjclt" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="26px" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://gitlab.com/jithinkjclt" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" width="26px" alt="GitLab" />
+  </a>
+</p>
+
 
 <br/><br/>
 
