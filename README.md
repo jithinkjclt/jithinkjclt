@@ -59,7 +59,6 @@ Always learning, building, and exploring better ways to solve real-world problem
 <a href="https://linkedin.com/in/jithincalicut"><img align="left" alt="LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
 <a href="https://github.com/jithinkjclt"><img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" /></a>
 <a href="https://gitlab.com/jithinkjclt"><img align="left" alt="GitLab" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" /></a>
-<a href="https://jithin.dev"><img align="left" alt="Website" width="26px" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" /></a>
 
 <br/><br/>
 
