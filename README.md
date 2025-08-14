@@ -1,7 +1,7 @@
 ### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"/>
 
 I'm **Jithin K**, a passionate **Flutter Developer** from Calicut, India 🇮🇳  
-Crafting beautiful, scalable apps using **Flutter + Firebase**, with a focus on performance and clean architecture.  
+Crafting beautiful, scalable apps using **Flutter + Firebase + Supabase**, with a focus on performance and clean architecture.  
 Always learning, building, and exploring better ways to solve real-world problems through code.
 
 <img align="right" alt="Flutter Dev Animation" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" height="300" />
@@ -13,7 +13,7 @@ Always learning, building, and exploring better ways to solve real-world problem
 - 💼 Currently Flutter Developer at [Codeme Hub](https://codemehub.com)
 - 📱 Working on real-time chat, e-commerce & CRM apps
 - 🌱 Exploring advanced animations, backend integration & clean architecture
-- 💬 Ask me about Flutter, Firebase, Cubit, or mobile app architecture
+- 💬 Ask me about Flutter, Firebase, Supabase, Cubit, or mobile app architecture
 - 🎯 Goal: Keep improving and contribute to impactful products
 - ⚡ Fun Fact: I enjoy experimenting with creative UI and smooth interactions
 
@@ -23,7 +23,7 @@ Always learning, building, and exploring better ways to solve real-world problem
 
 - **Languages & Frameworks:** Dart, Flutter  
 - **State Management:** Cubit, Provider  
-- **Backend & DB:** Firebase (Auth, Firestore, FCM, Storage), REST APIs, Hive  
+- **Backend & DB:** Firebase (Auth, Firestore, FCM, Storage), **Supabase** (Auth, Database, Storage), REST APIs, Hive  
 - **Tools:** Git, GitHub, GitLab, Postman, VS Code, Android Studio, Figma  
 
 ---
@@ -42,6 +42,12 @@ Always learning, building, and exploring better ways to solve real-world problem
 - Clean architecture, Cubit, REST APIs  
 - Features include: inventory, cart, orders, OTP login, smart search  
 - Built for scale and low-end Android performance
+
+#### 🔹 Phone Book App — Contact Management with Supabase
+> Flutter + Supabase  
+- Create, read, update, delete, and search contacts  
+- Supabase Auth & Database integration  
+- Responsive UI with Cubit state management
 
 ---
 
@@ -71,7 +77,6 @@ Always learning, building, and exploring better ways to solve real-world problem
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" width="26px" alt="GitLab" />
   </a>
 </p>
-
 
 <br/><br/>
 
